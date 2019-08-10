@@ -1,0 +1,20 @@
+{
+    "schemaVersion": 1,
+    "id": "dropperducts",
+    "name": "DropperDucts",
+    "description": "Makes Droppers act like Item Ducts",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "UpcraftLP",
+            "contact": {
+                "homepage": "https://twitter.com/UpcraftLP"
+            }
+        }
+    ],
+    "side": "universal",
+    "version": "${version}",
+    "mixins": [
+        "mixins.dropperducts.json"
+    ]
+}
